@@ -1,0 +1,25 @@
+﻿$ apt update && apt upgrade
+
+$ pkg ins toilet
+
+$ pkg ins figlet
+
+$ pkg ins ruby
+
+$ pkg ins gem
+
+$ gem ins lolcat
+
+$ pkg ins php
+
+$ pkg ins python2
+
+$ pkg ins git
+
+$ git clone https://github.com/Rusmana-ID/rus
+
+$ cd rus
+
+$ sh v2.sh
+
+Username:Remaja  password:Coding
